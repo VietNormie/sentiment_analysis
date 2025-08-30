@@ -1,2 +1,2 @@
-# sentiment-analysis
-Sentiment analysis with Vietnamese comments. 
+ Practicing sentiment analysis on data is the comments of customers on the e-commerce platform Tiki 
+ Note: run file .ipynb in Kaggle editor 
