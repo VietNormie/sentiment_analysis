@@ -1,2 +1,2 @@
- Practicing sentiment analysis on data is the comments of customers on the e-commerce platform Tiki 
- Note: run file .ipynb in Kaggle editor 
+- Practicing aspect-based sentiment analysis on data is the comments of customers on the e-commerce platform Tiki
+- Note: run file .ipynb in Kaggle editor 
